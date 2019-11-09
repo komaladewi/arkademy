@@ -1,0 +1,32 @@
+{
+  
+  
+    "name": "Nur Komala Sari Dewi",
+    "Age" : 23,
+    "address" : "Jl. Nusa 1 No 45, Kramat Jati",
+    "Hobby" : [
+      "gaming",
+      "baca komik"
+    ],
+    "Is_maried":false,
+    "list_school" : [
+    {"vocationalSchool" : "SMKN 10 JAKARTA",
+    "year_in":2011,
+    "year_out":2014},
+    {"university": "Universitas Suryadarma",
+    "year_in":2014,
+    "year_out":2015}
+  ],
+  "Skill":[
+  {"skill_name": "adobe photoshop",
+  "level":"advanced"},
+  {"skill_name" : "laravel", 
+  "level": "beginer"}
+  ],
+  "interest_in_coding": true
+
+}
+
+
+    
+
